@@ -1,0 +1,11 @@
+main.c:185:6:SystemClock_Config	80	static
+main.c:130:5:main	40	static
+main.c:481:6:Initialize	12	static
+main.c:495:6:Parse_serial	40	static
+main.c:415:6:Identify_serial	16	static
+main.c:474:6:HAL_UART_RxCpltCallback	16	static
+main.c:569:6:Parse_CAN_data	32	static
+main.c:623:6:Compose_CAN_msg	32	static
+main.c:649:10:AFR_to_ADC_counts	8	static
+main.c:654:6:HAL_CAN_RxFifo0MsgPendingCallback	32	static
+main.c:674:6:Error_Handler	0	static
